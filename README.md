@@ -28,12 +28,13 @@
 | [**arabic-rtl-fix**](https://github.com/Omarhussien2/arabic-rtl-fix) | النص العربي مقلوب في تطبيقات Electron → مهارة AI تصلّحه لأي وكيل |
 | [**kharbasha-platform**](https://github.com/Omarhussien2/kharbasha-platform) | جمع بيانات ممل → منصة scraping بالوكلاء |
 | [**بصيرة**](https://github.com/Omarhussien2/baseera-search) | تتبع المصادر يدويًا → بحث ورصد إعلامي بمحركات متعددة |
-| [**متجر سِراج**](https://github.com/Omarhussien2/-seraj-store) | متجر عربي لأطفال → Next.js + MongoDB، بيتم تطويره بوكيل AI |
+| [**نَزُل**](https://github.com/Omarhussien2/nazl) | فكرة بتتشكل → تطبيق ويب كامل vibe-coded بوكيل MGX |
 
 ## 🔒 وشغل مغلقة المصدر — بتشتغل في الواقع
 
 | المشروع | إيه هو |
 |---|---|
+| **متجر سِراج** | متجر إلكتروني عربي متكامل — الفرونت والباك إند من تصميمي وتطويري: كتالوج، سلة، حسابات، وطلبات — [ادخل المتجر](https://seraj-store.vercel.app) |
 | **Auto Invite** | دعوات واتساب «شخص لكل شخص» — تنظيف أرقام، تعريب أسماء، ونظام بيبقى حريص يقلل احتمالية الحظر قدر الإمكان |
 | **تطبيق فريق سماوة** | إدارة فريق ومهام — [تجربة مباشرة](https://samawah-team-app-sepia.vercel.app) |
 | **موقعي الشخصي** | تسويق رقمي عربي أولًا — [شوفه من هنا](https://omar-hussein-portfolio.vercel.app/) |
