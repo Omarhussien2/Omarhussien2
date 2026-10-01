@@ -24,6 +24,7 @@
 
 | المشروع | المشكلة → الحل |
 |---|---|
+| [**Open Freelance Agent**](https://github.com/Omarhussien2/open-freelance-agent) | التقديم على شغل الحر بياخد يومي → وكيل محلي مجاني يراقب ويفلتر ويكتب العرض من أرقامي الحقيقية — ولا إرسال بدون موافقتي من تليجرام |
 | [**AI Toolkit Hub**](https://github.com/Omarhussien2/ai-toolkit-hub) | أدوات AI ضايعة في المفضلة → دليل مفتوح المصدر + امتداد متصفح يلتقطها في ثانية |
 | [**arabic-rtl-fix**](https://github.com/Omarhussien2/arabic-rtl-fix) | النص العربي مقلوب في تطبيقات Electron → مهارة AI تصلّحه لأي وكيل |
 | [**kharbasha-platform**](https://github.com/Omarhussien2/kharbasha-platform) | جمع بيانات ممل → منصة scraping بالوكلاء |
